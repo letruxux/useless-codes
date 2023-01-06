@@ -1,4 +1,4 @@
-# useless-codes
+<h1 align="center">🃏useless codes</h1>
 <div align="center">
 
   <img align="center" alt="GitHub top language" src="https://img.shields.io/github/languages/top/letruxux/useless-codes">
